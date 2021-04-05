@@ -1,0 +1,25 @@
+{
+    "short_name": "Search Github Repository",
+    "name": "Search Github Repository",
+    "icons": [
+      {
+        "src": "../src/Assets/Icons/GitHub-Mark/PNG/GitHub-Mark-64px.png",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "../src/Assets/Icons/GitHub-Mark/PNG/GitHub-Mark-120px-plus.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "../src/Assets/Icons/GitHub-Mark/PNG/GitHub-Mark-Light-120px-plus.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
